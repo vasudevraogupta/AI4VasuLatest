@@ -83,8 +83,7 @@ This pattern will allow you to create a public or private repository of your cho
 
 But before we get to doing this - we'll first need to do our "first pull and push"!
 
-### Our First Pull and Push
-
+### Our First Pull
 This is a long command, but it basically just lets us "sync up" our `git log` between the two different remote repositories. 
 
 It's easy enough in practice, we first need to `git pull` the content from the AIE1 remote repository hosted on GitHub.com to our local repository.
